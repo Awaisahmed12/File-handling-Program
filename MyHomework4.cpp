@@ -2,7 +2,7 @@
 // Programming Spring 2019, Rincon
 // 25 February 2019
 // This code handles files via input and output. There are
-// 5 different functions decided by the user
+// 4 different functions decided by the user
 
 #include <iostream>
 #include <fstream>
